@@ -18,6 +18,12 @@ Select the link Live Services site and note down your push notification credenti
 
 ![nuget](https://github.com/ranjeet692/PushExample/blob/master/nuget.PNG)
 
+### OR
+
+```powershell
+Install-Package cloudboost
+```
+
 ### Use JavaScript SDK or Rest APIs to send push notification.
 
 https://github.com/CloudBoost/JavaScriptSDK
