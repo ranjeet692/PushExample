@@ -23,7 +23,9 @@ Select the link Live Services site and note down your push notification credenti
 ```powershell
 Install-Package cloudboost
 ```
+### .NET SDK for Push Notifications
 
+[Tutorial](https://tutorials.cloudboost.io/en/pushnotifications/windows)
 ### Use JavaScript SDK or Rest APIs to send push notification.
 
 https://github.com/CloudBoost/JavaScriptSDK
