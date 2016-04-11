@@ -14,6 +14,10 @@ Select the link Live Services site and note down your push notification credenti
 
 ![visual project](https://github.com/ranjeet692/PushExample/blob/master/Add_Store.PNG)
 
+### Add Cloudboost in visual studio using nuget
+
+![nuget](https://github.com/ranjeet692/PushExample/blob/master/nuget.PNG)
+
 ### Use JavaScript SDK or Rest APIs to send push notification.
 
 https://github.com/CloudBoost/JavaScriptSDK
